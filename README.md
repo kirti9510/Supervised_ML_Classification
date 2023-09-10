@@ -41,6 +41,6 @@ This database contains 76 attributes, but all published experiments refer to usi
 * Studying correlations between features 
 * Patterns of most significant features
 
-**Conclusion :**
+* ## <font color=#dd3558> Conclusion
 * SVC performance was not as good as KNN but accuracy was acceptable with 93%.
 * Overall, KNN gave the best results from the different machine learning algorithms used here.
